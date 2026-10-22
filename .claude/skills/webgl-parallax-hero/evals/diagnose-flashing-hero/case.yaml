@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: diagnose-flashing-hero
+expected_outcome: |
+  The cause is identified as compositor tiles of many large DOM layers that are transformed and scaled every frame being dropped under GPU memory pressure, so the layer behind (the orange sky) shows through as solid rectangles. The fix replaces the stacked layers with a single canvas (WebGL) rather than tweaking blur, blend or will-change again.
+context:
+  scaffold_script: place-files.sh

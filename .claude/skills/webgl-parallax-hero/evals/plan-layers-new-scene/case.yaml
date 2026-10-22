@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: plan-layers-new-scene
+expected_outcome: |
+  A plan.md with 5 to 8 back-to-front layers each with a depth in metres, a cleaned master image step, separate sky and water layers, element layers requested on a flat chroma-key green background, geometric splitting of fused planes, and a single-canvas WebGL rendering approach with a physical camera model. It also flags the 1024 px source resolution.

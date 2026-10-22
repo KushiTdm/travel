@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: build-hero-from-layers
+expected_outcome: |
+  A working hero implementation: all layers drawn in a single WebGL canvas (no stack of transformed DOM layers), parallax derived from a depth per layer with a physical camera model (near layers move more, far layers little and in the opposite direction, scroll as forward dolly about a vanishing point on the horizon), the water handled as a ground plane, plus fallbacks (reduced motion, no WebGL) and no backdrop-filter or mix-blend-mode over the hero.
+context:
+  scaffold_script: place-files.sh

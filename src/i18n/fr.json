@@ -1,0 +1,279 @@
+{
+  "banner": "Site de démonstration — rien n’est réel : ni réservation, ni paiement, ni email envoyé",
+  "resetDemo": "Réinitialiser la démo",
+  "nav": {
+    "home": "Accueil",
+    "tours": "Circuits",
+    "about": "À propos",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "admin": "Admin démo",
+    "destinations": "Destinations",
+    "plan": "Préparer mon voyage"
+  },
+  "footer": {
+    "siteBy": "Site de démonstration par",
+    "tagline": "Voyages en petit groupe au Vietnam, au Cambodge et au Laos.",
+    "demoNote": "Opérateur fictif à des fins de démonstration."
+  },
+  "countries": {
+    "vietnam": "Vietnam",
+    "cambodia": "Cambodge",
+    "laos": "Laos"
+  },
+  "home": {
+    "heroTitle": "Suivre le fleuve, au-delà de la carte postale",
+    "heroText": "Voyages en petit groupe dans le delta du Mékong, à Angkor et au Laos, avec des guides locaux. Indiquez vos dates : un conseiller vous répond sous un jour ouvré.",
+    "ctaTours": "Voir les circuits",
+    "ctaContact": "Préparer mon voyage",
+    "featured": "Nos voyages",
+    "whyTitle": "Pourquoi voyager avec nous",
+    "why": [
+      {
+        "t": "Petits groupes",
+        "d": "10 à 12 voyageurs sur les circuits terrestres, jamais un car entier."
+      },
+      {
+        "t": "Guides locaux",
+        "d": "Guides agréés francophones ou anglophones, installés dans la région."
+      },
+      {
+        "t": "Une réponse humaine",
+        "d": "Pas de paiement instantané : un conseiller vérifie les dates et répond sous un jour ouvré."
+      }
+    ],
+    "forWhoTitle": "Pour qui ?",
+    "forWho": [
+      {
+        "t": "Couples",
+        "d": "Culture, gastronomie et confort loin du tourisme de masse."
+      },
+      {
+        "t": "Familles",
+        "d": "Rythme réaliste, transferts courts, temps de repos."
+      },
+      {
+        "t": "Voyageurs indépendants",
+        "d": "Prestations et prix clairs, contact facile sur mobile."
+      }
+    ],
+    "stylesTitle": "Voyagez comme vous aimez"
+  },
+  "about": {
+    "title": "À propos",
+    "p1": "Beyond the Mekong est un opérateur boutique fictif créé en démonstration par NeuraWeb. Il montre comment un petit tour-opérateur peut présenter ses voyages, recueillir des demandes qualifiées et les suivre.",
+    "p2": "Les itinéraires de ce site s’appuient sur de vrais parcours le long du Mékong, de Hô Chi Minh-Ville à Luang Prabang. Les départs, les demandes et l’espace admin sont simulés.",
+    "responsibleTitle": "Principes de voyage responsable",
+    "responsible": [
+      "Petits groupes pour limiter l’impact",
+      "Guides locaux et homestays familiaux",
+      "Sanctuaires d’éléphants éthiques uniquement, sans monte",
+      "Comportement respectueux dans les temples et les villages"
+    ],
+    "legalTitle": "Mentions légales",
+    "legal": "Un vrai opérateur afficherait ici son identité légale, sa garantie financière et son assurance (par exemple l’immatriculation Atout France pour un opérateur établi en France). Sans objet pour cette démo.",
+    "imageAlt": "Les mains d’un guide sur une rame, sur un canal du delta du Mékong"
+  },
+  "tours": {
+    "title": "Circuits",
+    "subtitle": "Des voyages le long du Mékong, du delta au Laos",
+    "empty": "Aucun circuit ne correspond aux filtres.",
+    "error": "Impossible de charger les circuits.",
+    "from": "à partir de",
+    "perPerson": "par personne",
+    "durationDays": "{{count}} jours",
+    "groupMax": "Jusqu’à {{count}} voyageurs",
+    "difficulty": "Difficulté",
+    "country": "Pays",
+    "all": "Tous",
+    "difficulties": {
+      "easy": "Facile",
+      "moderate": "Modéré",
+      "demanding": "Exigeant"
+    },
+    "style": "Style de voyage"
+  },
+  "tourDetail": {
+    "duration": "Durée",
+    "difficulty": "Difficulté",
+    "route": "Parcours",
+    "group": "Taille du groupe",
+    "groupValue": "Jusqu’à {{count}}",
+    "inclusions": "Inclus",
+    "exclusions": "Non inclus",
+    "itinerary": "Jour par jour",
+    "day": "Jour {{count}}",
+    "overnight": "Nuit",
+    "departures": "Prochains départs",
+    "noDepartures": "Aucun départ à venir. Contactez-nous pour une date privée.",
+    "spotsLeft": "{{count}} restante(s)",
+    "priceFrom": "à partir de",
+    "priceNote": "Prix indicatif par personne, base chambre double.",
+    "requestTour": "Demander ce circuit",
+    "notFound": "Circuit introuvable",
+    "notFoundDesc": "Le circuit recherché n’existe pas ou n’est plus disponible.",
+    "backToTours": "Retour aux circuits"
+  },
+  "status": {
+    "available": "Disponible",
+    "few_left": "Dernières places",
+    "full": "Complet"
+  },
+  "weather": {
+    "title": "Météo actuelle à {{place}}",
+    "unavailable": "Météo indisponible pour le moment.",
+    "feelsNote": "Données en direct Open-Meteo.",
+    "clear": "Dégagé",
+    "cloudy": "Nuageux",
+    "fog": "Brouillard",
+    "rain": "Pluie",
+    "storm": "Orage"
+  },
+  "book": {
+    "title": "Demande : {{tour}}",
+    "demoNote": "Démo : cette demande est enregistrée uniquement dans votre navigateur. Rien n’est envoyé.",
+    "step": "Étape {{current}} sur {{total}}",
+    "steps": [
+      "Départ et voyageurs",
+      "Vos coordonnées",
+      "Récapitulatif"
+    ],
+    "departure": "Départ",
+    "adults": "Adultes",
+    "children": "Enfants (moins de 12 ans)",
+    "name": "Nom complet",
+    "email": "Email",
+    "phone": "Téléphone",
+    "country": "Pays de résidence",
+    "message": "Message (facultatif)",
+    "next": "Suivant",
+    "back": "Retour",
+    "submit": "Envoyer ma demande",
+    "consent": "J’accepte que mes données soient conservées dans ce navigateur pour la démo.",
+    "summaryTour": "Circuit",
+    "summaryDeparture": "Départ",
+    "summaryTravellers": "Voyageurs",
+    "summaryContact": "Contact",
+    "travellers": "{{adults}} adulte(s), {{children}} enfant(s)",
+    "notEnoughSpots": "Il ne reste que {{count}} place(s) sur ce départ.",
+    "errors": {
+      "departure": "Choisissez un départ",
+      "adults": "Au moins 1 adulte",
+      "name": "Indiquez votre nom",
+      "email": "Indiquez un email valide",
+      "phone": "Indiquez un téléphone valide",
+      "country": "Indiquez votre pays",
+      "consent": "Le consentement est requis"
+    },
+    "confirmTitle": "Demande enregistrée",
+    "confirmText": "Votre référence est",
+    "confirmDemo": "Démo uniquement : rien n’a été réellement envoyé. Le lien WhatsApp ouvre un numéro fictif.",
+    "whatsapp": "Continuer sur WhatsApp",
+    "whatsappText": "Bonjour, la référence de ma demande est {{reference}}.",
+    "backHome": "Retour à l’accueil"
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Parlez-nous de votre projet. Ce formulaire de démo est enregistré uniquement dans votre navigateur.",
+    "submit": "Envoyer le message",
+    "sentTitle": "Message enregistré",
+    "sentText": "Référence",
+    "newMessage": "Envoyer un autre message"
+  },
+  "faq": {
+    "title": "Questions fréquentes"
+  },
+  "admin": {
+    "title": "Admin démo",
+    "loginTitle": "Connexion démo",
+    "loginHint": "Identifiants préremplis. Aucune authentification réelle.",
+    "password": "Mot de passe",
+    "enter": "Entrer en mode démo",
+    "invalid": "Identifiants de démo invalides.",
+    "logout": "Se déconnecter",
+    "newCount": "Nouvelles demandes",
+    "total": "Total",
+    "filter": "Statut",
+    "allStatuses": "Tous les statuts",
+    "reference": "Référence",
+    "date": "Date",
+    "source": "Source",
+    "tour": "Circuit",
+    "contact": "Contact",
+    "travellers": "Voyageurs",
+    "statusCol": "Statut",
+    "empty": "Aucune demande. Envoyez-en une depuis la page de réservation ou de contact, même depuis un autre onglet.",
+    "badgeNew": "Nouveau",
+    "sources": {
+      "tailor_made": "Sur mesure"
+    },
+    "statuses": {
+      "new": "Nouveau",
+      "contacted": "Contacté",
+      "quoted": "Devis envoyé",
+      "confirmed": "Confirmé",
+      "lost": "Perdu"
+    }
+  },
+  "styles": {
+    "culture": "Culture et patrimoine",
+    "nature": "Nature",
+    "river": "Fleuve et bateaux",
+    "food": "Gastronomie et marchés",
+    "family": "En famille",
+    "slow": "Voyage lent"
+  },
+  "destinations": {
+    "title": "Destinations",
+    "subtitle": "Trois pays, un fleuve",
+    "highlights": "À ne pas manquer",
+    "toursIn": "Circuits : {{country}}",
+    "ctaText": "Un autre parcours en tête ? Nous le construisons avec vous."
+  },
+  "plan": {
+    "title": "Préparer mon voyage",
+    "subtitle": "Dites-nous ce que vous imaginez. Un conseiller vous répond sous un jour ouvré avec une première proposition.",
+    "destinations": "Où souhaitez-vous aller ?",
+    "styles": "Qu’aimez-vous ?",
+    "period": "Dates approximatives",
+    "periodPlaceholder": "ex. février 2027",
+    "duration": "Durée",
+    "durationValue": "{{range}} jours",
+    "budget": "Budget par personne (hors vols)",
+    "message": "Autre chose à nous dire ? (facultatif)",
+    "submit": "Envoyer mon projet",
+    "sentTitle": "Projet enregistré",
+    "errors": {
+      "destinations": "Choisissez au moins une destination",
+      "period": "Indiquez à peu près quand",
+      "duration": "Choisissez une durée"
+    }
+  },
+  "hero": {
+    "scroll": "Défiler",
+    "alt": {
+      "halong": "Barque en bois sur l’eau calme entre des îlots calcaires au coucher du soleil",
+      "cambodia": "Barque en bois sur un lac couvert de lotus, face à Angkor Wat au lever du soleil",
+      "laos": "Barque en bois sur le Mékong au lever du soleil, face à une colline couronnée d’un stupa doré à Luang Prabang"
+    },
+    "next": {
+      "cambodia": "Découvrir le Cambodge",
+      "laos": "Découvrir le Laos",
+      "halong": "Retour au Vietnam"
+    },
+    "scene": {
+      "halong": {
+        "eyebrow": "Vietnam",
+        "title": "Là où la brume épouse la pierre."
+      },
+      "cambodia": {
+        "eyebrow": "Cambodge",
+        "title": "Angkor s’éveille. Vous aussi."
+      },
+      "laos": {
+        "eyebrow": "Laos",
+        "title": "Le fleuve ralentit. Le temps aussi."
+      }
+    }
+  }
+}

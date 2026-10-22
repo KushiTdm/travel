@@ -1,0 +1,279 @@
+{
+  "banner": "Demo site — nothing is real: no booking, no payment, no email sent",
+  "resetDemo": "Reset demo",
+  "nav": {
+    "home": "Home",
+    "tours": "Tours",
+    "about": "About",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "admin": "Admin demo",
+    "destinations": "Destinations",
+    "plan": "Plan my journey"
+  },
+  "footer": {
+    "siteBy": "Demo site by",
+    "tagline": "Small-group journeys through Vietnam, Cambodia and Laos.",
+    "demoNote": "Fictional operator for demonstration purposes."
+  },
+  "countries": {
+    "vietnam": "Vietnam",
+    "cambodia": "Cambodia",
+    "laos": "Laos"
+  },
+  "home": {
+    "heroTitle": "Follow the river, beyond the postcard",
+    "heroText": "Small-group journeys through the Mekong Delta, Angkor and Laos, led by local guides. Tell us your dates: a specialist replies within one business day.",
+    "ctaTours": "Browse tours",
+    "ctaContact": "Plan my journey",
+    "featured": "Our journeys",
+    "whyTitle": "Why travel with us",
+    "why": [
+      {
+        "t": "Small groups",
+        "d": "10 to 12 travellers on land tours, never a coach load."
+      },
+      {
+        "t": "Local guides",
+        "d": "Licensed French or English-speaking guides who live in the region."
+      },
+      {
+        "t": "A human reply",
+        "d": "No instant checkout: a specialist checks dates and answers within one business day."
+      }
+    ],
+    "forWhoTitle": "Who is it for?",
+    "forWho": [
+      {
+        "t": "Couples",
+        "d": "Culture, food and comfort away from mass tourism."
+      },
+      {
+        "t": "Families",
+        "d": "Realistic pacing, short transfers, rest periods."
+      },
+      {
+        "t": "Independent travellers",
+        "d": "Clear inclusions and prices, easy mobile contact."
+      }
+    ],
+    "stylesTitle": "Travel the way you like"
+  },
+  "about": {
+    "title": "About",
+    "p1": "Beyond the Mekong is a fictional boutique operator created as a demonstration by NeuraWeb. It shows how a small tour operator can present its journeys, collect qualified enquiries and follow them up.",
+    "p2": "Itineraries on this site are based on real routes along the Mekong, from Ho Chi Minh City to Luang Prabang. Departures, enquiries and the admin area are simulated.",
+    "responsibleTitle": "Responsible travel principles",
+    "responsible": [
+      "Small groups to limit impact",
+      "Local guides and family-run homestays",
+      "Ethical elephant sanctuaries only, no riding",
+      "Respectful behaviour at temples and in villages"
+    ],
+    "legalTitle": "Legal information",
+    "legal": "A real operator would display here its legal identity, financial guarantee and insurance details (for example the Atout France registration for France-based operators). Not applicable to this demo.",
+    "imageAlt": "A boat guide's hands on an oar on a Mekong Delta canal"
+  },
+  "tours": {
+    "title": "Tours",
+    "subtitle": "Journeys along the Mekong, from the delta to Laos",
+    "empty": "No tours match the selected filters.",
+    "error": "Failed to load tours.",
+    "from": "from",
+    "perPerson": "per person",
+    "durationDays": "{{count}} days",
+    "groupMax": "Up to {{count}} travellers",
+    "difficulty": "Difficulty",
+    "country": "Country",
+    "all": "All",
+    "difficulties": {
+      "easy": "Easy",
+      "moderate": "Moderate",
+      "demanding": "Demanding"
+    },
+    "style": "Travel style"
+  },
+  "tourDetail": {
+    "duration": "Duration",
+    "difficulty": "Difficulty",
+    "route": "Route",
+    "group": "Group size",
+    "groupValue": "Up to {{count}}",
+    "inclusions": "Included",
+    "exclusions": "Not included",
+    "itinerary": "Day by day",
+    "day": "Day {{count}}",
+    "overnight": "Overnight",
+    "departures": "Upcoming departures",
+    "noDepartures": "No upcoming departures. Contact us for a private date.",
+    "spotsLeft": "{{count}} left",
+    "priceFrom": "from",
+    "priceNote": "Indicative price per person, twin share.",
+    "requestTour": "Request this tour",
+    "notFound": "Tour not found",
+    "notFoundDesc": "The tour you are looking for does not exist or is no longer available.",
+    "backToTours": "Back to tours"
+  },
+  "status": {
+    "available": "Available",
+    "few_left": "Few left",
+    "full": "Full"
+  },
+  "weather": {
+    "title": "Weather now in {{place}}",
+    "unavailable": "Weather unavailable right now.",
+    "feelsNote": "Live data from Open-Meteo.",
+    "clear": "Clear",
+    "cloudy": "Cloudy",
+    "fog": "Fog",
+    "rain": "Rain",
+    "storm": "Thunderstorm"
+  },
+  "book": {
+    "title": "Request: {{tour}}",
+    "demoNote": "Demo: this request is saved in your browser only. Nothing is sent.",
+    "step": "Step {{current}} of {{total}}",
+    "steps": [
+      "Departure & travellers",
+      "Your details",
+      "Summary"
+    ],
+    "departure": "Departure",
+    "adults": "Adults",
+    "children": "Children (under 12)",
+    "name": "Full name",
+    "email": "Email",
+    "phone": "Phone",
+    "country": "Country of residence",
+    "message": "Message (optional)",
+    "next": "Next",
+    "back": "Back",
+    "submit": "Send my request",
+    "consent": "I agree that my details are stored in this browser for the demo.",
+    "summaryTour": "Tour",
+    "summaryDeparture": "Departure",
+    "summaryTravellers": "Travellers",
+    "summaryContact": "Contact",
+    "travellers": "{{adults}} adult(s), {{children}} child(ren)",
+    "notEnoughSpots": "Only {{count}} spot(s) left on this departure.",
+    "errors": {
+      "departure": "Choose a departure",
+      "adults": "At least 1 adult",
+      "name": "Enter your name",
+      "email": "Enter a valid email",
+      "phone": "Enter a valid phone number",
+      "country": "Enter your country",
+      "consent": "Consent is required"
+    },
+    "confirmTitle": "Request recorded",
+    "confirmText": "Your reference is",
+    "confirmDemo": "Demo only: nothing was really sent. The WhatsApp link opens a fictional number.",
+    "whatsapp": "Continue on WhatsApp",
+    "whatsappText": "Hello, my request reference is {{reference}}.",
+    "backHome": "Back to home"
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Tell us about your project. This demo form is saved in your browser only.",
+    "submit": "Send message",
+    "sentTitle": "Message recorded",
+    "sentText": "Reference",
+    "newMessage": "Send another message"
+  },
+  "faq": {
+    "title": "Frequently asked questions"
+  },
+  "admin": {
+    "title": "Admin demo",
+    "loginTitle": "Demo login",
+    "loginHint": "Credentials are prefilled. No real authentication.",
+    "password": "Password",
+    "enter": "Enter demo mode",
+    "invalid": "Invalid demo credentials.",
+    "logout": "Log out",
+    "newCount": "New inquiries",
+    "total": "Total",
+    "filter": "Status",
+    "allStatuses": "All statuses",
+    "reference": "Reference",
+    "date": "Date",
+    "source": "Source",
+    "tour": "Tour",
+    "contact": "Contact",
+    "travellers": "Travellers",
+    "statusCol": "Status",
+    "empty": "No inquiries yet. Submit one from the booking or contact page, even from another tab.",
+    "badgeNew": "New",
+    "sources": {
+      "tailor_made": "Tailor-made"
+    },
+    "statuses": {
+      "new": "New",
+      "contacted": "Contacted",
+      "quoted": "Quoted",
+      "confirmed": "Confirmed",
+      "lost": "Lost"
+    }
+  },
+  "styles": {
+    "culture": "Culture & heritage",
+    "nature": "Nature",
+    "river": "River & boats",
+    "food": "Food & markets",
+    "family": "Family",
+    "slow": "Slow travel"
+  },
+  "destinations": {
+    "title": "Destinations",
+    "subtitle": "Three countries, one river",
+    "highlights": "Highlights",
+    "toursIn": "Tours in {{country}}",
+    "ctaText": "Want a different route? We design it around you."
+  },
+  "plan": {
+    "title": "Plan my journey",
+    "subtitle": "Tell us what you have in mind. A specialist replies within one business day with a first proposal.",
+    "destinations": "Where would you like to go?",
+    "styles": "What do you enjoy?",
+    "period": "Approximate dates",
+    "periodPlaceholder": "e.g. February 2027",
+    "duration": "Duration",
+    "durationValue": "{{range}} days",
+    "budget": "Budget per person (excl. flights)",
+    "message": "Anything else? (optional)",
+    "submit": "Send my project",
+    "sentTitle": "Project recorded",
+    "errors": {
+      "destinations": "Choose at least one destination",
+      "period": "Tell us roughly when",
+      "duration": "Choose a duration"
+    }
+  },
+  "hero": {
+    "scroll": "Scroll",
+    "alt": {
+      "halong": "Wooden boat on calm water between limestone islands at sunset",
+      "cambodia": "Wooden boat on a lotus-covered lake facing Angkor Wat at sunrise",
+      "laos": "Wooden boat on the Mekong at sunrise facing a hill crowned by a golden stupa in Luang Prabang"
+    },
+    "next": {
+      "cambodia": "Discover Cambodia",
+      "laos": "Discover Laos",
+      "halong": "Back to Vietnam"
+    },
+    "scene": {
+      "halong": {
+        "eyebrow": "Vietnam",
+        "title": "Where mist meets stone."
+      },
+      "cambodia": {
+        "eyebrow": "Cambodia",
+        "title": "Angkor wakes. So do you."
+      },
+      "laos": {
+        "eyebrow": "Laos",
+        "title": "The river slows. So does time."
+      }
+    }
+  }
+}
